@@ -1,0 +1,4 @@
+/* Custom styling if required (Tailwind handles most of the UI) */
+body {
+    transition: background-color 0.3s ease;
+}
